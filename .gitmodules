@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/pramitbhar26/hotel_booking.git
